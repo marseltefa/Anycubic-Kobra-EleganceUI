@@ -29,6 +29,8 @@ Install the custom firmware form **jcst40** [Kobra-Kai-with-Thumbnail-preview](h
 6. Turn off your printer, remove the SD card
 7. Done, you can turn it on
 
+![flash screen](/img/flash_screen.jpg)
+
 # FAQ
 ### Can I revert to the old version if I don't like it?
 Yes you can, just follow the steps to update the screen firmware to the latest version above
